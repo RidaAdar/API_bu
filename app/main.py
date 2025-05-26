@@ -6,6 +6,7 @@ from app.data_generator import (
     generate_livres, generate_dynamic_data
 )
 
+
 app = FastAPI()
 
 @app.get("/visites_bu")
