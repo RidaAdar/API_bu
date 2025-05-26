@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+faker
+nest_asyncio
